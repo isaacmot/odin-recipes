@@ -1,0 +1,42 @@
+h1 {
+    background-color: rgb(179, 110, 7);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 40%;
+    height: auto;
+}
+
+h2 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+#tit_desc {
+    background-color: turquoise;
+}
+
+#tit_ing {
+    background-color: rgb(24, 24, 187);
+    color: white;
+}
+
+#tit_pasos {
+    background-color: rgb(17, 17, 114);
+    color: white
+}
+
+p, li {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+ul {
+    font-weight: bold;
+}
